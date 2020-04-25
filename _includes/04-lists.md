@@ -1,2 +1,2 @@
-* Java (beginner)
+* Learning Java
 * Ubuntu
