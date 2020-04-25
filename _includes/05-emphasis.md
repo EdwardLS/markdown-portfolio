@@ -1,1 +1,1 @@
-Currently learning **Java** programming langage.
+Currently learning **Java** programming language.
